@@ -1,4 +1,5 @@
 path: .
+description: Images collected in CMU hallways at Hamerschlag Hall, Scaife Hall, and Techspark
 
 # Classes
 # 0 - 79 are yolov5's original classes. Reuses 56, 12, 13
