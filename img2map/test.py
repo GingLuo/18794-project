@@ -17,7 +17,7 @@ if __name__ == '__main__':
     else:
         transform = midas_transforms.small_transform
 
-    img_path = 'images'
+    img_path = './hallway_dataset/images'
     imgs = os.listdir(img_path)
     random.shuffle(imgs)
     output_path = 'output'
